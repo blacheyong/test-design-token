@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 10 Jan 2022 19:28:50 GMT
+// Generated on Mon, 10 Jan 2022 23:07:27 GMT
 
 
 import UIKit
@@ -12,6 +12,7 @@ import UIKit
 public class StyleDictionary {
     public static let colorBellBlue = UIColor(red: 0.000, green: 0.329, blue: 0.604, alpha: 1)
     public static let colorTextColor = UIColor(red: 0.596, green: 0.596, blue: 0.596, alpha: 1)
+    public static let colorWarningYellow = UIColor(red: 0.886, green: 0.647, blue: 0.173, alpha: 1)
     public static let fontHeading1 = "[object Object]"
     public static let typographyHeading1FontFamily = BellSlim Heavy
     public static let typographyHeading1FontSize = 50

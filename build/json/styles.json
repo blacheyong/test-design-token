@@ -1,6 +1,7 @@
 {
   "ColorBellBlue": "#00549a",
   "ColorTextColor": "#989898",
+  "ColorWarningYellow": "#e2a52c",
   "FontHeading1": {"fontSize":50,"textDecoration":"none","fontFamily":"BellSlim Heavy","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":60,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
   "TypographyHeading1FontSize": 50,
   "TypographyHeading1TextDecoration": "none",
