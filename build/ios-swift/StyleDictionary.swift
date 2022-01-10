@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 10 Jan 2022 23:19:43 GMT
+// Generated on Mon, 10 Jan 2022 23:26:48 GMT
 
 
 import UIKit
@@ -14,7 +14,7 @@ public class StyleDictionary {
     public static let colorTextColor = UIColor(red: 0.596, green: 0.596, blue: 0.596, alpha: 1)
     public static let colorWarningYellow = UIColor(red: 0.886, green: 0.647, blue: 0.173, alpha: 1)
     public static let fontHeading1 = "[object Object]"
-    public static let radiiSameWithSmoothing = [object Object]
+    public static let radiusDefaultRadius = [object Object]
     public static let typographyHeading1FontFamily = BellSlim Heavy
     public static let typographyHeading1FontSize = 50
     public static let typographyHeading1FontStretch = normal
