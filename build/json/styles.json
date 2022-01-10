@@ -1,4 +1,16 @@
 {
   "ColorBellBlue": "#00549a",
-  "ColorTextColor": "#989898"
+  "ColorTextColor": "#989898",
+  "FontHeading1": {"fontSize":50,"textDecoration":"none","fontFamily":"BellSlim Heavy","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":60,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "TypographyHeading1FontSize": 50,
+  "TypographyHeading1TextDecoration": "none",
+  "TypographyHeading1FontFamily": "BellSlim Heavy",
+  "TypographyHeading1FontWeight": 400,
+  "TypographyHeading1FontStyle": "normal",
+  "TypographyHeading1FontStretch": "normal",
+  "TypographyHeading1LetterSpacing": 0,
+  "TypographyHeading1LineHeight": 60,
+  "TypographyHeading1ParagraphIndent": 0,
+  "TypographyHeading1ParagraphSpacing": 0,
+  "TypographyHeading1TextCase": "none"
 }
