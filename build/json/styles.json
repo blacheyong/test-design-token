@@ -1,6 +1,6 @@
 {
+  "Radii10": {"smoothing":0,"topLeft":10,"topRight":10,"bottomLeft":10,"bottomRight":10},
   "Radius5": {"smoothing":0,"topLeft":5,"topRight":5,"bottomLeft":5,"bottomRight":5},
-  "RadiusDefaultRadius": {"smoothing":0,"topLeft":10,"topRight":10,"bottomLeft":10,"bottomRight":10},
   "ColorBellBlue": "#00549a",
   "ColorTextColor": "#989898",
   "ColorWarningYellow": "#e2a52c",
